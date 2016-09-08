@@ -1,0 +1,26 @@
+{
+  "name": "@rainder/readdir-deep",
+  "version": "0.0.1",
+  "description": "Reads all subdirectories",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rainder/node-readdir-deep.git"
+  },
+  "keywords": [
+    "readdir",
+    "deep"
+  ],
+  "author": "Andrius Skerla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rainder/node-readdir-deep/issues"
+  },
+  "homepage": "https://github.com/rainder/node-readdir-deep#readme",
+  "dependencies": {
+    "co": "^4.6.0"
+  }
+}
